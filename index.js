@@ -1,4 +1,2 @@
-echo "Success";
-echo "succeee-1";
-echo "pass to vikrant";
-
+var fs = require('fs');
+console.log ("Success")
